@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: 'Module I: Basic Biochemistry'
 uid: e9b95b7e-a96b-1d21-2eb7-0c269c68536e
 ---

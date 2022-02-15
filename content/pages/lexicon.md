@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Lexicon
 uid: 6ee8b2ee-1fb6-0cc3-f7d1-2594a7d4d55b
 ---

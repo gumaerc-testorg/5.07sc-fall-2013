@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Module I: Basic Biochemistry'
+parent_type: CourseSection
 parent_uid: e9b95b7e-a96b-1d21-2eb7-0c269c68536e
 title: 'Session 2: Protein Structure and Function'
 uid: 784e7357-9d3b-ba4b-07bb-7259086a7456

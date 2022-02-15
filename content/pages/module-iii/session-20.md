@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Module III: Using Energy to Make Macromolecules'
+parent_type: CourseSection
 parent_uid: 0bdeb870-0057-3309-f833-15b337f07f4f
 title: 'Session 20: Carbohydrate Biosynthesis III: Pentose Phosphate Pathway'
 uid: 0be246d3-8f26-0940-e277-8af19f6d9853

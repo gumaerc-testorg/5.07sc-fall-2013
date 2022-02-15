@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Module I: Basic Biochemistry'
+parent_type: CourseSection
 parent_uid: e9b95b7e-a96b-1d21-2eb7-0c269c68536e
 title: 'Session 7: Biochemical Transformations III'
 uid: ee6a5544-2c1e-2ee9-3686-bd979c6d5634

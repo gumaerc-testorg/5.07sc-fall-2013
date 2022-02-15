@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/5-07sc-biological-chemistry-i-fall-2013/35bce68b89aec7b2a5a5bf82e2e93c1e_VykaDbJIb8A.pdf
+file: /media/courses/5-07sc-biological-chemistry-i-fall-2013/35bce68b89aec7b2a5a5bf82e2e93c1e_VykaDbJIb8A.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Document
 title: 3play pdf file
 uid: 35bce68b-89ae-c7b2-a5a5-bf82e2e93c1e

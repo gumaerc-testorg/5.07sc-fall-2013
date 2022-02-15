@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Module III: Using Energy to Make Macromolecules'
+parent_type: CourseSection
 parent_uid: 0bdeb870-0057-3309-f833-15b337f07f4f
 title: 'Session 21: Regulation of Metabolism'
 uid: cb7b5577-39a4-3a08-9c64-90a6df6bee82

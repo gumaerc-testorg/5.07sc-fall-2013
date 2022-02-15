@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/5-07sc-biological-chemistry-i-fall-2013/9c30b0874f8bf66044797771042b3e9c_Fedeles_cropped.jpg
+file: /media/courses/5-07sc-biological-chemistry-i-fall-2013/9c30b0874f8bf66044797771042b3e9c_Fedeles_cropped.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Meet The Team
+parent_type: CourseSection
 resourcetype: Image
 title: Fedeles_cropped.jpg
 uid: 9c30b087-4f8b-f660-4479-7771042b3e9c

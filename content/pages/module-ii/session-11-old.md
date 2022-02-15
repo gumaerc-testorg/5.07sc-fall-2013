@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Module II: Production of Energy in the Cell'
+parent_type: CourseSection
 parent_uid: 29eb687e-7d27-4b59-afef-6a3dc3859291
 title: 'Session 11: Prochirality and Aconitase'
 uid: ce1d0114-f148-eebf-3aee-2e3dc8873cef

@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/5-07sc-biological-chemistry-i-fall-2013/7ca9407ed482a9963642bfb276868246_MIT5_07SCF13_Pset1_soln.pdf
+file: /media/courses/5-07sc-biological-chemistry-i-fall-2013/7ca9407ed482a9963642bfb276868246_MIT5_07SCF13_Pset1_soln.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: 'Session 1: What is Biochemistry?'
+parent_type: CourseSection
 resourcetype: Document
 title: 5.07SC(F13) Problem Set 1 Solutions
 uid: 7ca9407e-d482-a996-3642-bfb276868246

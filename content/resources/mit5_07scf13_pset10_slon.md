@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/5-07sc-biological-chemistry-i-fall-2013/c8d1467907b20a38eb534a6a39a3982e_MIT5_07SCF13_Pset10_slon.pdf
+file: /media/courses/5-07sc-biological-chemistry-i-fall-2013/c8d1467907b20a38eb534a6a39a3982e_MIT5_07SCF13_Pset10_slon.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: 'Session 19: Carbohydrate Biosynthesis II: Gluconeogenesis'
+parent_type: CourseSection
 resourcetype: Document
 title: MIT5_07SCF13_Pset10_soln.pdf
 uid: c8d14679-07b2-0a38-eb53-4a6a39a3982e

@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Module II: Production of Energy in the Cell'
+parent_type: CourseSection
 parent_uid: 29eb687e-7d27-4b59-afef-6a3dc3859291
 title: 'Session 10: Respiration: TCA Cycle'
 uid: e618325b-7f53-2a3c-a461-2b451fd45c34

@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Module II: Production of Energy in the Cell'
+parent_type: CourseSection
 parent_uid: 29eb687e-7d27-4b59-afef-6a3dc3859291
 title: 'Session 12: Respiration: Electron Transport and Oxidative Phosphorylation'
 uid: 9f4429fe-b956-2eff-21ea-87330cbbed91
@@ -20,7 +23,7 @@ Lecture Topics
 
 
 *   The Role of Electron Transport to Generate Proton Gradients
-*   Mobile e⊖ Carriers
+*   Mobile e{{< sup "⊖" >}} Carriers
 *   Integral Membrane Proteins as Electron Conduits
 *   Thermodynamics of ATP Synthesis
 

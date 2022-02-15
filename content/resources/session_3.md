@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/5-07sc-biological-chemistry-i-fall-2013/1e65e9f2b06bbae72dbed06980bfec88_Session_3.jpg
+file: /media/courses/5-07sc-biological-chemistry-i-fall-2013/1e65e9f2b06bbae72dbed06980bfec88_Session_3.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: 'Session 3: Enzymes and Catalysis'
+parent_type: CourseSection
 resourcetype: Image
 title: Session_3.jpg
 uid: 1e65e9f2-b06b-bae7-2dbe-d06980bfec88

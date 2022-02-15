@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Module I: Basic Biochemistry'
+parent_type: CourseSection
 parent_uid: e9b95b7e-a96b-1d21-2eb7-0c269c68536e
 title: 'Session 4: Enzyme Kinetics and Enzyme Inhibition'
 uid: 1ce10481-e08c-8afe-1143-3ec9c84f3a3b

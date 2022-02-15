@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: 'Module II: Production of Energy in the Cell'
 uid: 29eb687e-7d27-4b59-afef-6a3dc3859291
 ---

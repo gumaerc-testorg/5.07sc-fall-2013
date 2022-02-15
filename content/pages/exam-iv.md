@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Exam IV
 uid: 2ecc4b5c-d1fd-1ac8-7ed2-778d4b8ec214
 ---

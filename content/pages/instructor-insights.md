@@ -1,6 +1,8 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: 2d6e92b2-0a5d-3994-8d83-539f5b3a872a
 ---
@@ -75,28 +77,6 @@ _[5.12 Organic Chemistry I](/courses/5-12-organic-chemistry-i-spring-2005/)_
 ### Offered
 
 Every fall semester
-
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![Lecture hall with green tablet armchairs arranged in tiered groups (capacity for over 100 students). Armchairs are facing the sliding chalkboards. Two tables are in front of the chalkboards. Three white screens are near the chalkboards.]({{< resource_file d139629b-06db-aef3-3b1a-bc3328af745b >}})
-    
-    ![](/images/educator/classroom_prev.png) Room 1 of 2 [![Click for next classroom.](/images/educator/classroom_next.png)](#)
-    
-    ### Lecture
-    
-    Lectures typically take place in a classroom with tiered tablet armchairs, sliding chalkboards, and AV equipment.
-    
-*   ![Classroom with narrow tables arranged in rows. Black chairs arranged behind each row of tables. Chalkboards on the front and side walls.]({{< resource_file 926e80a2-cd16-e934-ea34-47e99e6cd2c7 >}})
-    
-    [![Click for previous classroom.](/images/educator/classroom_prev.png)](#) Room 2 of 2 ![](/images/educator/classroom_next.png)
-    
-    ### Recitation
-    
-    Recitations take place in smaller classrooms equipped with chalkboards and flexible seating.
-    
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 

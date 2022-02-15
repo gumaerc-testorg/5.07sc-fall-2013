@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Module II: Production of Energy in the Cell'
+parent_type: CourseSection
 parent_uid: 29eb687e-7d27-4b59-afef-6a3dc3859291
 title: 'Session 13: Respiration: Proton Pumps and ATP Synthesis'
 uid: 8105f8e5-4a43-4afc-cf2b-0cfeb0aa9832

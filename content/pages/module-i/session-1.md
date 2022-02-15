@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Module I: Basic Biochemistry'
+parent_type: CourseSection
 parent_uid: e9b95b7e-a96b-1d21-2eb7-0c269c68536e
 title: 'Session 1: What is Biochemistry?'
 uid: 1fc4da87-9128-0568-ac58-25fccb720421

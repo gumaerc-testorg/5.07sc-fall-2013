@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/5-07sc-biological-chemistry-i-fall-2013/808fee1e4f21b4019a0f8b820089daea_Session_21.jpg
+file: /media/courses/5-07sc-biological-chemistry-i-fall-2013/808fee1e4f21b4019a0f8b820089daea_Session_21.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: 'Session 19: Carbohydrate Biosynthesis II: Gluconeogenesis'
+parent_type: CourseSection
 resourcetype: Image
 title: Session_21.jpg
 uid: 808fee1e-4f21-b401-9a0f-8b820089daea

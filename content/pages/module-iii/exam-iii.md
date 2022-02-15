@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Module III: Using Energy to Make Macromolecules'
+parent_type: CourseSection
 parent_uid: 0bdeb870-0057-3309-f833-15b337f07f4f
 title: Exam III
 uid: 87f4d958-3fce-d57f-7d47-2e791d1ff0bd

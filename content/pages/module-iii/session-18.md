@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Module III: Using Energy to Make Macromolecules'
+parent_type: CourseSection
 parent_uid: 0bdeb870-0057-3309-f833-15b337f07f4f
 title: 'Session 18: Carbohydrate Biosynthesis I: Glycogen Synthesis '
 uid: 75fe79d4-5450-b071-d5b0-f03061b94b38

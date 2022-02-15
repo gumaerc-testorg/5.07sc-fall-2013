@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Module II: Production of Energy in the Cell'
+parent_type: CourseSection
 parent_uid: 29eb687e-7d27-4b59-afef-6a3dc3859291
 title: 'Session 8: Introduction to Sugar Chemistry and Carbohydrate Catabolism'
 uid: 17c27441-e358-70d8-0e8a-f92b5b927035

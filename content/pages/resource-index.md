@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Resource Index
 uid: d07abae0-c8dd-bcec-b1b6-138f19c824ba
 ---
@@ -76,7 +78,7 @@ RELATED FILES
 
 
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="4" >}}
 
 
 [Lexicon of Biochemical Reactions (PDF - 1.2MB)]({{< baseurl >}}/resources/mit5_07scf13_lexicon)

@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Module I: Basic Biochemistry'
+parent_type: CourseSection
 parent_uid: e9b95b7e-a96b-1d21-2eb7-0c269c68536e
 title: 'Session 5: Biochemical Transformations I'
 uid: 57cb5406-f873-5689-623d-f08bb1077277

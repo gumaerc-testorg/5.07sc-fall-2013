@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Syllabus
+parent_type: CourseSection
 parent_uid: 0416c6fa-ef6a-8e14-e257-2a13a8ef82fd
 title: Meet The Team
 uid: 2f64e3f6-bd9c-a4c8-785a-b31136b28972

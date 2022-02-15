@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/5-07sc-biological-chemistry-i-fall-2013/a294e5a3002b7aa326583f8ef120465b_Essigmann_cropped.jpg
+file: /media/courses/5-07sc-biological-chemistry-i-fall-2013/a294e5a3002b7aa326583f8ef120465b_Essigmann_cropped.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Meet The Team
+parent_type: CourseSection
 resourcetype: Image
 title: Essigmann_cropped.jpg
 uid: a294e5a3-002b-7aa3-2658-3f8ef120465b

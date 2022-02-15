@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/5-07sc-biological-chemistry-i-fall-2013/d3f959afdddb528497464acb35972688_4BwB43Smu7o.vtt
+file: /media/courses/5-07sc-biological-chemistry-i-fall-2013/d3f959afdddb528497464acb35972688_4BwB43Smu7o.vtt
 file_type: application/x-subrip
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file
 uid: d3f959af-dddb-5284-9746-4acb35972688

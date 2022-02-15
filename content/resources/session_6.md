@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/5-07sc-biological-chemistry-i-fall-2013/cacf01d87e38d625cfbe722e1a2ea32e_Session_6.jpg
+file: /media/courses/5-07sc-biological-chemistry-i-fall-2013/cacf01d87e38d625cfbe722e1a2ea32e_Session_6.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: 'Session 6: Biochemical Transformations II'
+parent_type: CourseSection
 resourcetype: Image
 title: Session_6.jpg
 uid: cacf01d8-7e38-d625-cfbe-722e1a2ea32e

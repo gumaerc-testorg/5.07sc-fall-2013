@@ -2,8 +2,12 @@
 content_type: resource
 description: This resource contains information regarding biochemical transformations
   II.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/5-07sc-biological-chemistry-i-fall-2013/74228ba954337f8b27fc2c894c988a5d_MIT5_07SCF13_Lec10.pdf
+file: /media/courses/5-07sc-biological-chemistry-i-fall-2013/74228ba954337f8b27fc2c894c988a5d_MIT5_07SCF13_Lec10.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: 'Session 6: Biochemical Transformations II'
+parent_type: CourseSection
 resourcetype: Document
 title: 'Biological Chemistry I: Biochemical Transformations II'
 uid: 74228ba9-5433-7f8b-27fc-2c894c988a5d

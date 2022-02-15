@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: 'Module III: Using Energy to Make Macromolecules'
 uid: 0bdeb870-0057-3309-f833-15b337f07f4f
 ---

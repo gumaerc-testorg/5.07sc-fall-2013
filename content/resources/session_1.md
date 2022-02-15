@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/5-07sc-biological-chemistry-i-fall-2013/284732e4faa0e330277431a8ff1536fb_Session_1.jpg
+file: /media/courses/5-07sc-biological-chemistry-i-fall-2013/284732e4faa0e330277431a8ff1536fb_Session_1.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: 'Session 1: What is Biochemistry?'
+parent_type: CourseSection
 resourcetype: Image
 title: Session_1.jpg
 uid: 284732e4-faa0-e330-2774-31a8ff1536fb
