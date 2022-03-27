@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: PLP (Pyridoxal Phosphate) Chemistry
 uid: 4135524f-0ca9-aaf9-155e-965fe190d1cb
 video_files:

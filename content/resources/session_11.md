@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Session 11: Prochirality and Aconitase'
 parent_type: CourseSection
+parent_uid: ce1d0114-f148-eebf-3aee-2e3dc8873cef
 resourcetype: Image
 title: Session_11.jpg
 uid: 89b1af97-939e-4aa3-d9c9-25b543d03f8d

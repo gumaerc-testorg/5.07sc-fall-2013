@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Session 10: Respiration: TCA Cycle'
 parent_type: CourseSection
+parent_uid: e618325b-7f53-2a3c-a461-2b451fd45c34
 resourcetype: Image
 title: Session_10.jpg
 uid: 91806c38-3326-e6dd-0198-4a5221716242

@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Session 2: Protein Structure and Function'
 parent_type: CourseSection
+parent_uid: 784e7357-9d3b-ba4b-07bb-7259086a7456
 resourcetype: Document
 title: 'Biological Chemistry I: Protein Structure and Function Continued'
 uid: 8708bcd1-263e-e128-1ed4-c61cbb79afff

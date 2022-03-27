@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'ses19: Carbohydrate Biosynthesis II: Gluconeogenesis'
 uid: 73bc58e1-a787-e881-7964-38549157579b
 video_files:

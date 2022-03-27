@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Session 15: Special Cases in Fatty Acid Metabolism'
 parent_type: CourseSection
+parent_uid: 70b2da5f-1582-4ec1-7560-6e34a1ecc82f
 resourcetype: Document
 title: MIT5_07SCF13_Pset9.pdf
 uid: 7f67a5c1-acec-c9d4-b35d-8791141adde7

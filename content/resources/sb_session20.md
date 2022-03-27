@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Session 20: Carbohydrate Biosynthesis III: Pentose Phosphate Pathway'
 parent_type: CourseSection
+parent_uid: 0be246d3-8f26-0940-e277-8af19f6d9853
 resourcetype: Document
 title: 5.07SC(F13) storyboards session 20
 uid: 128d7f9c-bb70-7f49-2f93-ab866dd7ac59

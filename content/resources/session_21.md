@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Session 19: Carbohydrate Biosynthesis II: Gluconeogenesis'
 parent_type: CourseSection
+parent_uid: 79ac34bd-9fd5-247a-fbf7-f168dd133ab4
 resourcetype: Image
 title: Session_21.jpg
 uid: 808fee1e-4f21-b401-9a0f-8b820089daea

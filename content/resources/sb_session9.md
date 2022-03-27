@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Session 9: Glycolysis and Early Stages of Respiration'
 parent_type: CourseSection
+parent_uid: eeb03753-dead-a602-6b7f-4d5632a15d48
 resourcetype: Document
 title: 5.07SC(F13) storyboards session 9
 uid: eded1110-7d23-5a52-a3d3-27ea494a0fa3

@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'ses 9: Glycolysis and Early Stages of Respiration'
 uid: 76b7cbd2-c819-7535-be14-98f71ccad1e3
 video_files:

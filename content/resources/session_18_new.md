@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Session 18: Carbohydrate Biosynthesis I: Glycogen Synthesis '
 parent_type: CourseSection
+parent_uid: 75fe79d4-5450-b071-d5b0-f03061b94b38
 resourcetype: Image
 title: Session_18_new.jpg
 uid: 3f7e4880-804c-db97-0ae3-d7ae3447806f

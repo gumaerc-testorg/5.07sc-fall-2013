@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lexicon of Biochemical Reactions: Redox Cofactors'
 uid: 5fa8ad9f-5a1d-9e87-d988-ef0e3a76d660
 video_files:

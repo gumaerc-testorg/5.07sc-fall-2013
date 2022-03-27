@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lexicon of Biochemical Reactions: Cofactors Formed from Vitamin B12'
 uid: f4975917-a5d1-71a8-dfb4-918750adc1a5
 video_files:

@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Ses 13: Respiration: Proton Pumps and ATP Synthesis'
 uid: 56476d6c-d821-7245-8c26-de41cda0dec9
 video_files:

@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Problem Set 4, Problem 2: The Mechanism of HMG-CoA Synthase'
 uid: 50196664-83eb-f247-15ec-c54f5c2e601d
 video_files:

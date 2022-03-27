@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Session 3: Enzymes and Catalysis'
 parent_type: CourseSection
+parent_uid: 27144c40-64d0-090f-a5fa-7413272ece82
 resourcetype: Document
 title: 'Biological Chemistry I: Enzymes and Catalysis'
 uid: e9540e99-4623-cb30-7d2e-08dcd3de9d72

@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Session 3: Enzymes and Catalysis'
 parent_type: CourseSection
+parent_uid: 27144c40-64d0-090f-a5fa-7413272ece82
 resourcetype: Document
 title: 5.07SC(F13) Problem Set 2
 uid: deef35fd-ed75-6ac3-8b84-dcf2a4384e89

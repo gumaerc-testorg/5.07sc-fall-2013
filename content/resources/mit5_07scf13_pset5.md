@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Session 7: Biochemical Transformations III'
 parent_type: CourseSection
+parent_uid: ee6a5544-2c1e-2ee9-3686-bd979c6d5634
 resourcetype: Document
 title: Microsoft Word - Problem Set 5   Chemistry 5.doc
 uid: eecc0b98-43a2-08a4-85ef-dc0a8f436049

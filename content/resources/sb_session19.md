@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Session 19: Carbohydrate Biosynthesis II: Gluconeogenesis'
 parent_type: CourseSection
+parent_uid: 79ac34bd-9fd5-247a-fbf7-f168dd133ab4
 resourcetype: Document
 title: 5.07SC(F13) storyboards session 19
 uid: d455232a-9677-7b2c-55b5-023e9a876c9e

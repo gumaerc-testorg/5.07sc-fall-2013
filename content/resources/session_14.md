@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Session 13: Respiration: Proton Pumps and ATP Synthesis'
 parent_type: CourseSection
+parent_uid: 8105f8e5-4a43-4afc-cf2b-0cfeb0aa9832
 resourcetype: Image
 title: Session_14.jpg
 uid: fe88602f-0966-d010-6b6c-f6462fb7cc6b

@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Problem Set 5, Problem 5: How Mannose, an Isomer of Glucose, Enters Glycolysis'
 uid: 6e107b0c-72be-3459-a163-c619cfa49163
 video_files:

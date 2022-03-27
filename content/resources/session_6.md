@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Session 6: Biochemical Transformations II'
 parent_type: CourseSection
+parent_uid: 715af689-4051-bbb6-c4e8-3ea908ce930b
 resourcetype: Image
 title: Session_6.jpg
 uid: cacf01d8-7e38-d625-cfbe-722e1a2ea32e

@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Session 1: What is Biochemistry?'
 parent_type: CourseSection
+parent_uid: 1fc4da87-9128-0568-ac58-25fccb720421
 resourcetype: Document
 title: Pset1_finalBM
 uid: ae1bdc89-57bd-0ea7-0305-6a9bfeb14e95

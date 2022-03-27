@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Session 18: Carbohydrate Biosynthesis I: Glycogen Synthesis'
 uid: 5acc6c98-b7ed-a06f-089f-56e4848a9d9d
 video_files:

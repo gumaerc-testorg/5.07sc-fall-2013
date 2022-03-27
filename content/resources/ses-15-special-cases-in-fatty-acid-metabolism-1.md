@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Ses 15: Special Cases in Fatty Acid Metabolism'
 uid: af559ac7-4a3e-6748-fa75-217d9e9bad5b
 video_files:

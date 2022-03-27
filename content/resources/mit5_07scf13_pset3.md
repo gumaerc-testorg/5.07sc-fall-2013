@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Session 4: Enzyme Kinetics and Enzyme Inhibition'
 parent_type: CourseSection
+parent_uid: 1ce10481-e08c-8afe-1143-3ec9c84f3a3b
 resourcetype: Document
 title: MIT5_07SCF13_Pset3.pdf
 uid: a16ad585-bbab-668d-80c8-e421219c554e

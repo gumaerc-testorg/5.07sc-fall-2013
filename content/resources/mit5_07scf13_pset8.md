@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Session 12: Respiration: Electron Transport and Oxidative Phosphorylation'
 parent_type: CourseSection
+parent_uid: 9f4429fe-b956-2eff-21ea-87330cbbed91
 resourcetype: Document
 title: Microsoft Word - Problem Set 8 2013
 uid: 9601ce73-f290-a5c3-7054-ca429ecc1eca

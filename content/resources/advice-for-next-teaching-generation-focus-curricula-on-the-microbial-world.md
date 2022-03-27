@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: ThisCourseAtMITSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Advice for Next Teaching Generation: Focus Curricula on the Microbial World'
 uid: af5909cd-80cf-0b3c-e1e4-aa85c66022c8
 video_files:

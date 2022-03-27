@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Session 7: Biochemical Transformations III'
 parent_type: CourseSection
+parent_uid: ee6a5544-2c1e-2ee9-3686-bd979c6d5634
 resourcetype: Document
 title: MIT5_07SCF13_Pset5_soln.pdf
 uid: b3717b08-8c79-16f9-9695-e7319cec6527

@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Session 19: Carbohydrate Biosynthesis II: Gluconeogenesis'
 parent_type: CourseSection
+parent_uid: 79ac34bd-9fd5-247a-fbf7-f168dd133ab4
 resourcetype: Document
 title: MIT5_07SCF13_Pset10_soln.pdf
 uid: c8d14679-07b2-0a38-eb53-4a6a39a3982e

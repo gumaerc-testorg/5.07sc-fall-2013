@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Meet The Team
 parent_type: CourseSection
+parent_uid: 2f64e3f6-bd9c-a4c8-785a-b31136b28972
 resourcetype: Image
 title: Stubbe_cropped.jpg
 uid: f86094f4-1e55-727a-11e0-18e9f74ce36f

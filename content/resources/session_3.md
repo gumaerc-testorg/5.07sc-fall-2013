@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Session 3: Enzymes and Catalysis'
 parent_type: CourseSection
+parent_uid: 27144c40-64d0-090f-a5fa-7413272ece82
 resourcetype: Image
 title: Session_3.jpg
 uid: 1e65e9f2-b06b-bae7-2dbe-d06980bfec88

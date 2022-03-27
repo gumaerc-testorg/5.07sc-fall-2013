@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lexicon of Biochemical Reactions: Vitamin B6 / PLP'
 uid: b853fc9d-0e3c-5583-20c2-24f07cccb1f6
 video_files:

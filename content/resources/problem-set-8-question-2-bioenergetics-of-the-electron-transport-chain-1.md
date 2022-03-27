@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Problem Set 8, Question 2: Bioenergetics of the Electron Transport Chain'
 uid: ff9ee4d2-12cb-849e-d234-effe7502dfec
 video_files:

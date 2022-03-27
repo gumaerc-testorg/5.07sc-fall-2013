@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Session 17: Fatty Acid and Lipid Biosynthesis'
 parent_type: CourseSection
+parent_uid: 78993cdf-e45b-61dc-38c2-741201d0a3ec
 resourcetype: Document
 title: 5.07SC(F13) storyboards session 17
 uid: aa3b48bc-e493-724b-91b9-420c9d119a36

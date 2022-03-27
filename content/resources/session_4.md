@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Session 4: Enzyme Kinetics and Enzyme Inhibition'
 parent_type: CourseSection
+parent_uid: 1ce10481-e08c-8afe-1143-3ec9c84f3a3b
 resourcetype: Image
 title: Session_4.jpg
 uid: eff87d44-00a0-1974-918c-db3fe3d7fd93

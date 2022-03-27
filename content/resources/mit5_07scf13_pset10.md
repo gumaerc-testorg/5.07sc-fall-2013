@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Session 19: Carbohydrate Biosynthesis II: Gluconeogenesis'
 parent_type: CourseSection
+parent_uid: 79ac34bd-9fd5-247a-fbf7-f168dd133ab4
 resourcetype: Document
 title: Microsoft Word - Problem Set 10 2013
 uid: 7933588a-9109-d0d9-b961-03984a7c9495

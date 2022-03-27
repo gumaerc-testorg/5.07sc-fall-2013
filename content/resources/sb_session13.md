@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Session 13: Respiration: Proton Pumps and ATP Synthesis'
 parent_type: CourseSection
+parent_uid: 8105f8e5-4a43-4afc-cf2b-0cfeb0aa9832
 resourcetype: Document
 title: 5.07SC(F13) storyboards session 13
 uid: 449bd554-5cf9-9159-504e-4488ee76e8b3

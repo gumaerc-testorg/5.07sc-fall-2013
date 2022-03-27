@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Session 14: Lipid Catabolism: Fatty Acid Beta-Oxidation'
 parent_type: CourseSection
+parent_uid: 17d352db-6c96-2121-bee6-41563cc9a8b1
 resourcetype: Image
 title: Session_14.jpg
 uid: 363f3cf1-7eae-c156-922d-a488c95f1b58

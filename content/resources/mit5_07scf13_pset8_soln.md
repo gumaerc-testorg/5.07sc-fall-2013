@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Session 12: Respiration: Electron Transport and Oxidative Phosphorylation'
 parent_type: CourseSection
+parent_uid: 9f4429fe-b956-2eff-21ea-87330cbbed91
 resourcetype: Document
 title: MIT5_07SCF13_Pset8_soln.pdf
 uid: e2d913ec-abee-c57b-cc56-7667b38a9a1a

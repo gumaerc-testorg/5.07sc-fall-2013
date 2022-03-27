@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Session 12: Respiration: Electron Transport and Oxidative Phosphorylation'
 parent_type: CourseSection
+parent_uid: 9f4429fe-b956-2eff-21ea-87330cbbed91
 resourcetype: Document
 title: 5.07SC(F13) storyboards session 12
 uid: 992c1e13-e0ae-fd6c-93ee-d4a6eea061e3

@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'ses 8: Intro to Sugar Chemistry and Carbohydrate Catabolism'
 uid: 91d2db67-0d58-2421-827f-d307848f926c
 video_files:

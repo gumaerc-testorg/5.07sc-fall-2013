@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Session 8: Introduction to Sugar Chemistry and Carbohydrate Catabolism'
 parent_type: CourseSection
+parent_uid: 17c27441-e358-70d8-0e8a-f92b5b927035
 resourcetype: Document
 title: 'Biological Chemistry I: Introduction to Sugar Chemistry'
 uid: 4caf13eb-cb48-0a0d-e75f-0821d4c9a322

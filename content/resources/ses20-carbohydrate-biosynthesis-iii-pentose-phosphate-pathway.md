@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'ses20: Carbohydrate Biosynthesis III: Pentose Phosphate Pathway'
 uid: 8d17f20b-9849-45d2-34a2-9af8af813072
 video_files:

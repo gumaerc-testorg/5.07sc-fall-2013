@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Blood Sugar Fluctuations and Gluconeogenesis
 uid: 6b5cbd72-6f55-76f1-1ebb-e2ee07897f07
 video_files:

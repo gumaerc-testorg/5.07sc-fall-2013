@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Problem Set 6, Problem 2: Mechanism of Phosphoglycerate Mutase'
 uid: 8ca3e2ae-ca58-3ee7-37ed-5fc468ec8fc2
 video_files:

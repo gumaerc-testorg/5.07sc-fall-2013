@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: ThisCourseAtMITSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Motivating Students to Study Metabolic Biochemistry with Oncology Applications
 uid: f35b9240-bba9-c882-566b-cdeedffd4f2f
 video_files:

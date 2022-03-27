@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Session 10: Respiration: TCA Cycle'
 parent_type: CourseSection
+parent_uid: e618325b-7f53-2a3c-a461-2b451fd45c34
 resourcetype: Document
 title: 5.07SC(F13) storyboards session 10
 uid: dd9a85eb-f07f-961b-4208-418ec368e446
