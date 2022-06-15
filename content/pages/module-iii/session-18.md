@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Module III: Using Energy to Make Macromolecules'
@@ -7,9 +8,11 @@ parent_type: CourseSection
 parent_uid: 0bdeb870-0057-3309-f833-15b337f07f4f
 title: 'Session 18: Carbohydrate Biosynthesis I: Glycogen Synthesis '
 uid: 75fe79d4-5450-b071-d5b0-f03061b94b38
+video_metadata:
+  youtube_id: null
 ---
 
-« [Previous]({{< baseurl >}}/pages/module-iii/session-17) | [Next]({{< baseurl >}}/pages/module-iii/session-19) »
+« {{% resource_link 78993cdf-e45b-61dc-38c2-741201d0a3ec "Previous" %}} | {{% resource_link 79ac34bd-9fd5-247a-fbf7-f168dd133ab4 "Next" %}} »
 
 Lecture Topics
 --------------
@@ -17,7 +20,7 @@ Lecture Topics
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![Session_18_new.jpg]({{< resource_file 3f7e4880-804c-db97-0ae3-d7ae3447806f >}})
+{{< resource 3f7e4880-804c-db97-0ae3-d7ae3447806f >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -47,6 +50,6 @@ This first of two videos on carbohydrate biosynthesis focuses on glycogen synthe
 
 {{< resource 5acc6c98-b7ed-a06f-089f-56e4848a9d9d >}}
 
-*   ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Storyboards 29–30 (PDF)]({{< baseurl >}}/resources/sb_session18)
+*   {{% resource_link dbbd659a-b720-9231-00fe-e6ae3536a942 "Storyboards 29–30 (PDF)" %}}
 
-« [Previous]({{< baseurl >}}/pages/module-iii/session-17) | [Next]({{< baseurl >}}/pages/module-iii/session-19) »
+« {{% resource_link 78993cdf-e45b-61dc-38c2-741201d0a3ec "Previous" %}} | {{% resource_link 79ac34bd-9fd5-247a-fbf7-f168dd133ab4 "Next" %}} »

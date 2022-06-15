@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Module III: Using Energy to Make Macromolecules'
@@ -7,9 +8,11 @@ parent_type: CourseSection
 parent_uid: 0bdeb870-0057-3309-f833-15b337f07f4f
 title: 'Session 19: Carbohydrate Biosynthesis II: Gluconeogenesis'
 uid: 79ac34bd-9fd5-247a-fbf7-f168dd133ab4
+video_metadata:
+  youtube_id: null
 ---
 
-« [Previous]({{< baseurl >}}/pages/module-iii/session-18) | [Next]({{< baseurl >}}/pages/module-iii/session-20) »
+« {{% resource_link 75fe79d4-5450-b071-d5b0-f03061b94b38 "Previous" %}} | {{% resource_link 0be246d3-8f26-0940-e277-8af19f6d9853 "Next" %}} »
 
 Lecture Topics
 --------------
@@ -17,7 +20,7 @@ Lecture Topics
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![Session_21.jpg]({{< resource_file 808fee1e-4f21-b401-9a0f-8b820089daea >}})
+{{< resource 808fee1e-4f21-b401-9a0f-8b820089daea >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -47,13 +50,13 @@ This video focuses on gluconeogenesis (GNG) -- the synthesis of glucose from non
 
 {{< resource 73bc58e1-a787-e881-7964-38549157579b >}}
 
-*   ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Storyboards 31–32 (PDF)]({{< baseurl >}}/resources/sb_session19)
+*   {{% resource_link d455232a-9677-7b2c-55b5-023e9a876c9e "Storyboards 31–32 (PDF)" %}}
 
 Problem Set & Solutions
 -----------------------
 
-*   [Problem Set 10 (PDF)]({{< baseurl >}}/resources/mit5_07scf13_pset10)
-*   [Solutions to Problem Set 10 (PDF)]({{< baseurl >}}/resources/mit5_07scf13_pset10_slon)
+*   {{% resource_link 7933588a-9109-d0d9-b961-03984a7c9495 "Problem Set 10 (PDF)" %}}
+*   {{% resource_link c8d14679-07b2-0a38-eb53-4a6a39a3982e "Solutions to Problem Set 10 (PDF)" %}}
 
 Problem Solving Video: Problem Set 10, Problem 3: Gluconeogenesis
 -----------------------------------------------------------------
@@ -62,4 +65,4 @@ Gluconeogenesis is a spontaneous process that involves the synthesis of glucose 
 
 {{< resource a619eae3-ea4e-16d9-17b5-0bf91d52fe93 >}}
 
-« [Previous]({{< baseurl >}}/pages/module-iii/session-18) | [Next]({{< baseurl >}}/pages/module-iii/session-20) »
+« {{% resource_link 75fe79d4-5450-b071-d5b0-f03061b94b38 "Previous" %}} | {{% resource_link 0be246d3-8f26-0940-e277-8af19f6d9853 "Next" %}} »

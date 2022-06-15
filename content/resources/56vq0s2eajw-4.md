@@ -1,11 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/5-07sc-biological-chemistry-i-fall-2013/35cf7c686150588bbd9f2ad02f355c0d_56vQ0S2eAjw.vtt
+file: /courses/5-07sc-biological-chemistry-i-fall-2013/35cf7c686150588bbd9f2ad02f355c0d_56vQ0S2eAjw.vtt
 file_type: application/x-subrip
 learning_resource_types: []
 ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file
 uid: 35cf7c68-6150-588b-bd9f-2ad02f355c0d
+video_metadata:
+  youtube_id: null
 ---

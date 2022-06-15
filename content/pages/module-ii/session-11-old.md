@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Module II: Production of Energy in the Cell'
@@ -7,9 +8,11 @@ parent_type: CourseSection
 parent_uid: 29eb687e-7d27-4b59-afef-6a3dc3859291
 title: 'Session 11: Prochirality and Aconitase'
 uid: ce1d0114-f148-eebf-3aee-2e3dc8873cef
+video_metadata:
+  youtube_id: null
 ---
 
-« [Previous]({{< baseurl >}}/pages/module-ii/session-10) | [Next]({{< baseurl >}}/pages/module-ii/session-11) »
+« {{% resource_link e618325b-7f53-2a3c-a461-2b451fd45c34 "Previous" %}} | {{% resource_link 58843ff6-eea1-ac3d-1eb2-2129d17d7148 "Next" %}} »
 
 Lecture Topics
 --------------
@@ -17,7 +20,7 @@ Lecture Topics
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![Session_11.jpg]({{< resource_file 89b1af97-939e-4aa3-d9c9-25b543d03f8d >}})
+{{< resource 89b1af97-939e-4aa3-d9c9-25b543d03f8d >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -63,4 +66,4 @@ Problem Solving Video: Problem Set 7, Problem 1: Tracing Labels through Pathways
 
 {{< resource 4015cac9-5230-5424-76da-e5cf05d41bec >}}
 
-« [Previous]({{< baseurl >}}/pages/module-ii/session-10) | [Next]({{< baseurl >}}/pages/module-ii/session-11) »
+« {{% resource_link e618325b-7f53-2a3c-a461-2b451fd45c34 "Previous" %}} | {{% resource_link 58843ff6-eea1-ac3d-1eb2-2129d17d7148 "Next" %}} »

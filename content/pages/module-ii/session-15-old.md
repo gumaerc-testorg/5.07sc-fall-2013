@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Module II: Production of Energy in the Cell'
@@ -7,9 +8,11 @@ parent_type: CourseSection
 parent_uid: 29eb687e-7d27-4b59-afef-6a3dc3859291
 title: 'Session 15: Respiration Part IV'
 uid: 5d3267a8-a819-29ba-c3df-e41140f198bd
+video_metadata:
+  youtube_id: null
 ---
 
-« [Previous]({{< baseurl >}}/pages/module-ii/session-13) | [Next]({{< baseurl >}}/pages/module-ii/session-14) »
+« {{% resource_link 8105f8e5-4a43-4afc-cf2b-0cfeb0aa9832 "Previous" %}} | {{% resource_link 17d352db-6c96-2121-bee6-41563cc9a8b1 "Next" %}} »
 
 Lecture Topics
 --------------
@@ -48,4 +51,4 @@ Lecture Video:
 *   Storyboard 15 (PDF)
     *   ATP Synthesis via F{{< sub "0" >}} F{{< sub "1" >}} ATP Synthesis Complex
 
-« [Previous]({{< baseurl >}}/pages/module-ii/session-13) | [Next]({{< baseurl >}}/pages/module-ii/session-14) »
+« {{% resource_link 8105f8e5-4a43-4afc-cf2b-0cfeb0aa9832 "Previous" %}} | {{% resource_link 17d352db-6c96-2121-bee6-41563cc9a8b1 "Next" %}} »

@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Module II: Production of Energy in the Cell'
@@ -7,9 +8,11 @@ parent_type: CourseSection
 parent_uid: 29eb687e-7d27-4b59-afef-6a3dc3859291
 title: 'Session 16: Ketogenesis, Diabetes and Starvation'
 uid: 816ff9e8-5bd5-83d2-afa4-8dda720d2220
+video_metadata:
+  youtube_id: null
 ---
 
-« [Previous]({{< baseurl >}}/pages/module-ii/session-15) | [Next]({{< baseurl >}}/pages/module-iii) »
+« {{% resource_link 70b2da5f-1582-4ec1-7560-6e34a1ecc82f "Previous" %}} | {{% resource_link 0bdeb870-0057-3309-f833-15b337f07f4f "Next" %}} »
 
 Lecture Topics
 --------------
@@ -17,7 +20,7 @@ Lecture Topics
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![Session_18.jpg]({{< resource_file 1c888633-1127-8107-8e73-6c43e93174bc >}})
+{{< resource 1c888633-1127-8107-8e73-6c43e93174bc >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -47,7 +50,7 @@ In this video, Professor Essigmann explores ketone bodies – what they are, how
 
 {{< resource ced22d92-3520-ecfa-3d57-3d0b9b153a8f >}}
 
-*   ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Storyboards 23–24 (PDF)]({{< baseurl >}}/resources/sb_session16)
+*   {{% resource_link 0d452ea7-7f6e-7bb7-aa4e-cf9aa498f4c7 "Storyboards 23–24 (PDF)" %}}
 
 Bonus Video 1: The Science Behind Type II Diabetes
 --------------------------------------------------
@@ -70,4 +73,4 @@ What does it mean when your breath smells like nail polish remover? In this vide
 
 {{< resource 573acc17-a5ce-b727-86d5-f6e631b60365 >}}
 
-« [Previous]({{< baseurl >}}/pages/module-ii/session-15) | [Next]({{< baseurl >}}/pages/module-iii) »
+« {{% resource_link 70b2da5f-1582-4ec1-7560-6e34a1ecc82f "Previous" %}} | {{% resource_link 0bdeb870-0057-3309-f833-15b337f07f4f "Next" %}} »

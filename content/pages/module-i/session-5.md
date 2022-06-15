@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Module I: Basic Biochemistry'
@@ -7,9 +8,11 @@ parent_type: CourseSection
 parent_uid: e9b95b7e-a96b-1d21-2eb7-0c269c68536e
 title: 'Session 5: Biochemical Transformations I'
 uid: 57cb5406-f873-5689-623d-f08bb1077277
+video_metadata:
+  youtube_id: null
 ---
 
-« [Previous]({{< baseurl >}}/pages/module-i/session-4) | [Next]({{< baseurl >}}/pages/module-i/session-6) »
+« {{% resource_link 1ce10481-e08c-8afe-1143-3ec9c84f3a3b "Previous" %}} | {{% resource_link 715af689-4051-bbb6-c4e8-3ea908ce930b "Next" %}} »
 
 Lecture Topics
 --------------
@@ -17,7 +20,7 @@ Lecture Topics
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![Session_5.jpg]({{< resource_file 0555375c-b104-92d3-fc44-653282cbb5b0 >}})
+{{< resource 0555375c-b104-92d3-fc44-653282cbb5b0 >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -44,7 +47,7 @@ Readings
 Lecture Notes
 -------------
 
-*   [Biochemical Transformations I (PDF)]({{< baseurl >}}/resources/mit5_07scf13_lec9)
+*   {{% resource_link 373220ce-e1ea-c3fc-29c4-55b6cad1c48e "Biochemical Transformations I (PDF)" %}}
 
 Lecture Video: Carbonyl Chemistry
 ---------------------------------
@@ -56,8 +59,8 @@ One of the most diverse chemical groups is the carbonyl -- a carbon atom double-
 Problem Set & Solutions
 -----------------------
 
-*   [Problem Set 4 (PDF)]({{< baseurl >}}/resources/mit5_07scf13_pset4)
-*   [Solutions to Problem Set 4 (PDF)]({{< baseurl >}}/resources/mit5_07scf13_pset4_soln)
+*   {{% resource_link 7984155f-c6d2-61b6-0e3c-cbee8fbb99fe "Problem Set 4 (PDF)" %}}
+*   {{% resource_link d8146ac2-403f-f39f-d8a3-253d4f14f657 "Solutions to Problem Set 4 (PDF)" %}}
 
 Problem Solving Video: Problem Set 4, Problem 2: The Mechanism of HMG-CoA Synthase
 ----------------------------------------------------------------------------------
@@ -66,4 +69,4 @@ In this video, Dr. Fedeles discusses in detail the mechanism of HMG-CoA Synthase
 
 {{< resource 50196664-83eb-f247-15ec-c54f5c2e601d >}}
 
-« [Previous]({{< baseurl >}}/pages/module-i/session-4) | [Next]({{< baseurl >}}/pages/module-i/session-6) »
+« {{% resource_link 1ce10481-e08c-8afe-1143-3ec9c84f3a3b "Previous" %}} | {{% resource_link 715af689-4051-bbb6-c4e8-3ea908ce930b "Next" %}} »

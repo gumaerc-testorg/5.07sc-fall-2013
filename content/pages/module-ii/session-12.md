@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Module II: Production of Energy in the Cell'
@@ -7,9 +8,11 @@ parent_type: CourseSection
 parent_uid: 29eb687e-7d27-4b59-afef-6a3dc3859291
 title: 'Session 12: Respiration: Electron Transport and Oxidative Phosphorylation'
 uid: 9f4429fe-b956-2eff-21ea-87330cbbed91
+video_metadata:
+  youtube_id: null
 ---
 
-« [Previous]({{< baseurl >}}/pages/module-ii/session-11) | [Next]({{< baseurl >}}/pages/module-ii/session-13) »
+« {{% resource_link 58843ff6-eea1-ac3d-1eb2-2129d17d7148 "Previous" %}} | {{% resource_link 8105f8e5-4a43-4afc-cf2b-0cfeb0aa9832 "Next" %}} »
 
 Lecture Topics
 --------------
@@ -17,7 +20,7 @@ Lecture Topics
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![Session_13.jpg]({{< resource_file 3b132715-1d43-c1f5-03ff-635654882251 >}})
+{{< resource 3b132715-1d43-c1f5-03ff-635654882251 >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -56,13 +59,13 @@ In this video, Professor Essigmann returns to the topic of respiration. He detai
 
 {{< resource 276387d4-6109-b379-6847-fee611b9add5 >}}
 
-*   ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Storyboards 12–13 (PDF)]({{< baseurl >}}/resources/sb_session12)
+*   {{% resource_link 992c1e13-e0ae-fd6c-93ee-d4a6eea061e3 "Storyboards 12–13 (PDF)" %}}
 
 Problem Set & Solutions
 -----------------------
 
-*   [Problem Set 8 (PDF)]({{< baseurl >}}/resources/mit5_07scf13_pset8)
-*   [Solutions to Problem Set 8 (PDF)]({{< baseurl >}}/resources/mit5_07scf13_pset8_soln)
+*   {{% resource_link 9601ce73-f290-a5c3-7054-ca429ecc1eca "Problem Set 8 (PDF)" %}}
+*   {{% resource_link e2d913ec-abee-c57b-cc56-7667b38a9a1a "Solutions to Problem Set 8 (PDF)" %}}
 
 Problem Solving Video: Problem Set 8, Problem 2: Bioenergetics of the Electron Transport Chain
 ----------------------------------------------------------------------------------------------
@@ -71,4 +74,4 @@ In this problem, Dr. Fedeles focuses on the electron transport chain. This funda
 
 {{< resource 3a0ac93e-644f-e16a-3f8b-0840a9f8df9a >}}
 
-« [Previous]({{< baseurl >}}/pages/module-ii/session-11) | [Next]({{< baseurl >}}/pages/module-ii/session-13) »
+« {{% resource_link 58843ff6-eea1-ac3d-1eb2-2129d17d7148 "Previous" %}} | {{% resource_link 8105f8e5-4a43-4afc-cf2b-0cfeb0aa9832 "Next" %}} »

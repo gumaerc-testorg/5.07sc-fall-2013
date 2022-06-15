@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Module I: Basic Biochemistry'
@@ -7,9 +8,11 @@ parent_type: CourseSection
 parent_uid: e9b95b7e-a96b-1d21-2eb7-0c269c68536e
 title: 'Session 2: Protein Structure and Function'
 uid: 784e7357-9d3b-ba4b-07bb-7259086a7456
+video_metadata:
+  youtube_id: null
 ---
 
-« [Previous]({{< baseurl >}}/pages/module-i/session-1) | [Next]({{< baseurl >}}/pages/module-i/session-3) »
+« {{% resource_link 1fc4da87-9128-0568-ac58-25fccb720421 "Previous" %}} | {{% resource_link 27144c40-64d0-090f-a5fa-7413272ece82 "Next" %}} »
 
 Lecture Topics
 --------------
@@ -17,7 +20,7 @@ Lecture Topics
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![Session_2.jpg]({{< resource_file e99add29-c81d-1a9e-bce2-e18c580a7fcd >}})
+{{< resource e99add29-c81d-1a9e-bce2-e18c580a7fcd >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -53,7 +56,7 @@ Readings
 Lecture Notes
 -------------
 
-*   [Introduction to Protein Structure and Function (PDF - 1.2MB)]({{< baseurl >}}/resources/mit5_07scf13_lec2_3)
-*   [Protein Structure and Function Continued (PDF)]({{< baseurl >}}/resources/mit5_07scf13_lec4)
+*   {{% resource_link ab748ac1-91e4-68a1-1346-14b9f8e620e8 "Introduction to Protein Structure and Function (PDF - 1.2MB)" %}}
+*   {{% resource_link 8708bcd1-263e-e128-1ed4-c61cbb79afff "Protein Structure and Function Continued (PDF)" %}}
 
-« [Previous]({{< baseurl >}}/pages/module-i/session-1) | [Next]({{< baseurl >}}/pages/module-i/session-3) »
+« {{% resource_link 1fc4da87-9128-0568-ac58-25fccb720421 "Previous" %}} | {{% resource_link 27144c40-64d0-090f-a5fa-7413272ece82 "Next" %}} »

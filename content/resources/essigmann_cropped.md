@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/5-07sc-biological-chemistry-i-fall-2013/a294e5a3002b7aa326583f8ef120465b_Essigmann_cropped.jpg
+file: /courses/5-07sc-biological-chemistry-i-fall-2013/a294e5a3002b7aa326583f8ef120465b_Essigmann_cropped.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
@@ -15,4 +15,6 @@ parent_uid: 2f64e3f6-bd9c-a4c8-785a-b31136b28972
 resourcetype: Image
 title: Essigmann_cropped.jpg
 uid: a294e5a3-002b-7aa3-2658-3f8ef120465b
+video_metadata:
+  youtube_id: null
 ---

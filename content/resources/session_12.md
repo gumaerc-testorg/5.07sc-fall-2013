@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/5-07sc-biological-chemistry-i-fall-2013/b74fa8135eac0a96b89584290bbb69de_Session_12.jpg
+file: /courses/5-07sc-biological-chemistry-i-fall-2013/b74fa8135eac0a96b89584290bbb69de_Session_12.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
@@ -15,4 +15,6 @@ parent_uid: 58843ff6-eea1-ac3d-1eb2-2129d17d7148
 resourcetype: Image
 title: Session_12.jpg
 uid: b74fa813-5eac-0a96-b895-84290bbb69de
+video_metadata:
+  youtube_id: null
 ---

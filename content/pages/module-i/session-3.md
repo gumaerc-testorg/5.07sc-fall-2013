@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Module I: Basic Biochemistry'
@@ -7,9 +8,11 @@ parent_type: CourseSection
 parent_uid: e9b95b7e-a96b-1d21-2eb7-0c269c68536e
 title: 'Session 3: Enzymes and Catalysis'
 uid: 27144c40-64d0-090f-a5fa-7413272ece82
+video_metadata:
+  youtube_id: null
 ---
 
-« [Previous]({{< baseurl >}}/pages/module-i/session-2) | [Next]({{< baseurl >}}/pages/module-i/session-4) »
+« {{% resource_link 784e7357-9d3b-ba4b-07bb-7259086a7456 "Previous" %}} | {{% resource_link 1ce10481-e08c-8afe-1143-3ec9c84f3a3b "Next" %}} »
 
 Lecture Topics
 --------------
@@ -17,7 +20,7 @@ Lecture Topics
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![Session_3.jpg]({{< resource_file 1e65e9f2-b06b-bae7-2dbe-d06980bfec88 >}})
+{{< resource 1e65e9f2-b06b-bae7-2dbe-d06980bfec88 >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -53,13 +56,13 @@ In this classroom lecture, Professor Stubbe focuses on enzymes as catalysts. She
 Lecture Notes
 -------------
 
-*   [Enzymes and Catalysis (PDF)]({{< baseurl >}}/resources/mit5_07scf13_lec5_6)
+*   {{% resource_link e9540e99-4623-cb30-7d2e-08dcd3de9d72 "Enzymes and Catalysis (PDF)" %}}
 
 Problem Set & Solutions
 -----------------------
 
-*   [Problem Set 2 (PDF)]({{< baseurl >}}/resources/mit5_07scf13_pset2)
-*   [Solutions to Problem Set 2 (PDF)]({{< baseurl >}}/resources/mit5_07scf13_pset2_soln)
+*   {{% resource_link deef35fd-ed75-6ac3-8b84-dcf2a4384e89 "Problem Set 2 (PDF)" %}}
+*   {{% resource_link fc333670-49fb-b883-3bfb-cfa1beba2e0e "Solutions to Problem Set 2 (PDF)" %}}
 
 Problem Solving Video: Problem Set 2, Problem 1: Primary Structure
 ------------------------------------------------------------------
@@ -68,4 +71,4 @@ This problem is about elucidating the primary structure of a protein. Dr. Fedele
 
 {{< resource a2a0ea00-21d7-a1ab-98a7-e6d9824272bf >}}
 
-« [Previous]({{< baseurl >}}/pages/module-i/session-2) | [Next]({{< baseurl >}}/pages/module-i/session-4) »
+« {{% resource_link 784e7357-9d3b-ba4b-07bb-7259086a7456 "Previous" %}} | {{% resource_link 1ce10481-e08c-8afe-1143-3ec9c84f3a3b "Next" %}} »
