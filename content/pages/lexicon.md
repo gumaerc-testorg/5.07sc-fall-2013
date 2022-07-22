@@ -1,10 +1,16 @@
 ---
 content_type: page
+description: This section describes the Lexicon of Biochemical Reactions and includes
+  4 videos.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Lexicon
 uid: 6ee8b2ee-1fb6-0cc3-f7d1-2594a7d4d55b
+video_metadata:
+  youtube_id: null
 ---
 
-« [Previous]({{< baseurl >}}/pages/instructor-insights) | [Next]({{< baseurl >}}/pages/module-i) »
+« {{% resource_link 2d6e92b2-0a5d-3994-8d83-539f5b3a872a "Previous" %}} | {{% resource_link e9b95b7e-a96b-1d21-2eb7-0c269c68536e "Next" %}} »
 
 Lexicon of Biochemical Reactions
 --------------------------------
@@ -18,7 +24,7 @@ Professor JoAnne Stubbe introduces the Lexicon of Biochemical Reactions, which e
 
 {{< resource 1112aee4-98b7-d07a-0d34-502cdca0ad0f >}}
 
-[Lexicon of Biochemical Reactions (PDF - 1.2MB)]({{< baseurl >}}/resources/mit5_07scf13_lexicon)
+{{% resource_link 0a3dab68-db7a-5fd5-c2ab-61860a35e2ca "Lexicon of Biochemical Reactions (PDF - 1.2MB)" %}}
 
 [Metabolic Pathways Chart](http://www.iubmb-nicholson.org/chart.html)
 
@@ -43,4 +49,4 @@ Professor Stubbe refers to the cofactors formed from Vitamin B12 as "Nature's mo
 
 {{< resource f4975917-a5d1-71a8-dfb4-918750adc1a5 >}}
 
-« [Previous]({{< baseurl >}}/pages/instructor-insights) | [Next]({{< baseurl >}}/pages/module-i) »
+« {{% resource_link 2d6e92b2-0a5d-3994-8d83-539f5b3a872a "Previous" %}} | {{% resource_link e9b95b7e-a96b-1d21-2eb7-0c269c68536e "Next" %}} »

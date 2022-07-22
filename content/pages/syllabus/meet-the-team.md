@@ -1,12 +1,18 @@
 ---
 content_type: page
+description: ''
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Syllabus
+parent_type: CourseSection
 parent_uid: 0416c6fa-ef6a-8e14-e257-2a13a8ef82fd
 title: Meet The Team
 uid: 2f64e3f6-bd9c-a4c8-785a-b31136b28972
+video_metadata:
+  youtube_id: null
 ---
 
-« [Previous]({{< baseurl >}}/pages/syllabus) | [Next]({{< baseurl >}}/pages/instructor-insights) »
+« {{% resource_link 0416c6fa-ef6a-8e14-e257-2a13a8ef82fd "Previous" %}} | {{% resource_link 2d6e92b2-0a5d-3994-8d83-539f5b3a872a "Next" %}} »
 
 JoAnne Stubbe
 -------------
@@ -14,7 +20,7 @@ JoAnne Stubbe
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![Stubbe_cropped2.jpg]({{< resource_file c18c5854-d218-9bea-84fe-d595fcd5e690 >}})
+{{< resource c18c5854-d218-9bea-84fe-d595fcd5e690 >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -34,7 +40,7 @@ John Essigmann
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![Essigmann_cropped2.jpg]({{< resource_file 89a9ed8d-e050-e332-7a72-dd8abfa1e130 >}})
+{{< resource 89a9ed8d-e050-e332-7a72-dd8abfa1e130 >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -54,7 +60,7 @@ Bogdan Fedeles
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![Fedeles_cropped.jpg]({{< resource_file 9c30b087-4f8b-f660-4479-7771042b3e9c >}})
+{{< resource 9c30b087-4f8b-f660-4479-7771042b3e9c >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -68,4 +74,4 @@ Bogdan Fedeles is Research Scientist in the MIT Center for Environmental Health 
 
 {{< tableclose >}}
 
-« [Previous]({{< baseurl >}}/pages/syllabus) | [Next]({{< baseurl >}}/pages/instructor-insights) »
+« {{% resource_link 0416c6fa-ef6a-8e14-e257-2a13a8ef82fd "Previous" %}} | {{% resource_link 2d6e92b2-0a5d-3994-8d83-539f5b3a872a "Next" %}} »

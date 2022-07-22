@@ -1,12 +1,18 @@
 ---
 content_type: page
+description: ''
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Module II: Production of Energy in the Cell'
+parent_type: CourseSection
 parent_uid: 29eb687e-7d27-4b59-afef-6a3dc3859291
 title: 'Session 13: Respiration: Proton Pumps and ATP Synthesis'
 uid: 8105f8e5-4a43-4afc-cf2b-0cfeb0aa9832
+video_metadata:
+  youtube_id: null
 ---
 
-« [Previous]({{< baseurl >}}/pages/module-ii/session-12) | [Next]({{< baseurl >}}/pages/module-ii/session-14) »
+« {{% resource_link 9f4429fe-b956-2eff-21ea-87330cbbed91 "Previous" %}} | {{% resource_link 17d352db-6c96-2121-bee6-41563cc9a8b1 "Next" %}} »
 
 Lecture Topics
 --------------
@@ -14,7 +20,7 @@ Lecture Topics
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![Session_14.jpg]({{< resource_file fe88602f-0966-d010-6b6c-f6462fb7cc6b >}})
+{{< resource fe88602f-0966-d010-6b6c-f6462fb7cc6b >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -45,6 +51,6 @@ The final stages of cell respiration are outlined in this video. Professor Essig
 
 {{< resource f72cd492-2e0c-e70b-3e88-49e4ed270919 >}}
 
-*   ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Storyboards 14–16 (PDF)]({{< baseurl >}}/resources/sb_session13)
+*   {{% resource_link 449bd554-5cf9-9159-504e-4488ee76e8b3 "Storyboards 14–16 (PDF)" %}}
 
-« [Previous]({{< baseurl >}}/pages/module-ii/session-12) | [Next]({{< baseurl >}}/pages/module-ii/session-14) »
+« {{% resource_link 9f4429fe-b956-2eff-21ea-87330cbbed91 "Previous" %}} | {{% resource_link 17d352db-6c96-2121-bee6-41563cc9a8b1 "Next" %}} »

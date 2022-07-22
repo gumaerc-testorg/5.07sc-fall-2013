@@ -1,10 +1,15 @@
 ---
 content_type: page
+description: ''
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 0416c6fa-ef6a-8e14-e257-2a13a8ef82fd
+video_metadata:
+  youtube_id: null
 ---
 
-« [Previous]({{< baseurl >}}/) | [Next]({{< baseurl >}}/pages/syllabus/meet-the-team) »
+« [Previous]({{< baseurl >}}/) | {{% resource_link 2f64e3f6-bd9c-a4c8-785a-b31136b28972 "Next" %}} »
 
 Course Overview
 ---------------
@@ -25,7 +30,7 @@ Course Goals
 ------------
 
 1.  To introduce you to all of the chemical players of life: Their structures and chemistry and, consequently, their function. Without this background you cannot understand biochemistry.
-2.  To introduce you to the central pathways of metabolism. At first glance, metabolism can be daunting, but all of biochemistry is made up of a surprisingly small number of chemical transformations, which are used again and again. Understanding these transformations will allow you to predict most metabolic interconversions (see the [Lexicon of Biochemical Reactions]({{< baseurl >}}/pages/lexicon)).
+2.  To introduce you to the central pathways of metabolism. At first glance, metabolism can be daunting, but all of biochemistry is made up of a surprisingly small number of chemical transformations, which are used again and again. Understanding these transformations will allow you to predict most metabolic interconversions (see the {{% resource_link 6ee8b2ee-1fb6-0cc3-f7d1-2594a7d4d55b "Lexicon of Biochemical Reactions" %}}).
 3.  Once you are familiar with the pathways, you can then to understand their regulation and their integration under different environmental conditions.
 
 Textbook
@@ -57,6 +62,6 @@ This OCW Scholar course was developed by JoAnne Stubbe, Professor of Chemistry &
 
 The Help Session Videos were developed by Dr. Bogdan Fedeles, Research Scientist at MIT and former Teaching Assistant for 5.07 Biochemistry.
 
-_To learn more, visit the [Meet the Team]({{< baseurl >}}/pages/syllabus/meet-the-team) page._
+_To learn more, visit the {{% resource_link 2f64e3f6-bd9c-a4c8-785a-b31136b28972 "Meet the Team" %}} page._
 
-« [Previous]({{< baseurl >}}/) | [Next]({{< baseurl >}}/pages/syllabus/meet-the-team) »
+« [Previous]({{< baseurl >}}/) | {{% resource_link 2f64e3f6-bd9c-a4c8-785a-b31136b28972 "Next" %}} »
