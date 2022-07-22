@@ -4,6 +4,7 @@ description: ''
 file: /courses/5-07sc-biological-chemistry-i-fall-2013/98ffcc6221dab466249431a4365fdf94_BY__sHZYi7Q.srt
 file_type: application/x-subrip
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file

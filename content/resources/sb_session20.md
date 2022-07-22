@@ -4,6 +4,7 @@ description: ''
 file: /courses/5-07sc-biological-chemistry-i-fall-2013/128d7f9cbb707f492f93ab866dd7ac59_sb_session20.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 20: Carbohydrate Biosynthesis III: Pentose Phosphate Pathway'
 parent_type: CourseSection

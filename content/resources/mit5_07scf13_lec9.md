@@ -5,6 +5,7 @@ description: This resource contains information regarding biochemical transforma
 file: /courses/5-07sc-biological-chemistry-i-fall-2013/373220cee1eac3fc29c455b6cad1c48e_MIT5_07SCF13_Lec9.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 5: Biochemical Transformations I'
 parent_type: CourseSection
@@ -16,4 +17,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains information regarding biochemical transformations I.
-

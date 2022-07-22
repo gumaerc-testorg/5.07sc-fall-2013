@@ -4,6 +4,7 @@ description: ''
 file: /courses/5-07sc-biological-chemistry-i-fall-2013/c47fc612aa6bc35d9abbd1317980ae43_sb_session8.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 8: Introduction to Sugar Chemistry and Carbohydrate Catabolism'
 parent_type: CourseSection

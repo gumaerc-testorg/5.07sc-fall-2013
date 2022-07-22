@@ -4,6 +4,7 @@ description: ''
 file: /courses/5-07sc-biological-chemistry-i-fall-2013/e3a17fc22ffc7fd418fbd2ea619cda7c_6MaMdzo416w.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Document
 title: 3play pdf file

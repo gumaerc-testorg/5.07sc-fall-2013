@@ -4,6 +4,7 @@ description: ''
 file: /courses/5-07sc-biological-chemistry-i-fall-2013/7ca9407ed482a9963642bfb276868246_MIT5_07SCF13_Pset1_soln.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 1: What is Biochemistry?'
 parent_type: CourseSection

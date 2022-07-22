@@ -4,6 +4,7 @@ description: ''
 file: /courses/5-07sc-biological-chemistry-i-fall-2013/eded11107d235a52a3d327ea494a0fa3_sb_session9.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 9: Glycolysis and Early Stages of Respiration'
 parent_type: CourseSection

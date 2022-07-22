@@ -4,6 +4,7 @@ description: ''
 file: /courses/5-07sc-biological-chemistry-i-fall-2013/a16ad585bbab668d80c8e421219c554e_MIT5_07SCF13_Pset3.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 4: Enzyme Kinetics and Enzyme Inhibition'
 parent_type: CourseSection

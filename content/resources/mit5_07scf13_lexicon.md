@@ -4,6 +4,7 @@ description: This resource contains information regarding lexicon of biochemical
 file: /courses/5-07sc-biological-chemistry-i-fall-2013/0a3dab68db7a5fd5c2ab61860a35e2ca_MIT5_07SCF13_Lexicon.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lexicon
 parent_type: CourseSection
@@ -15,4 +16,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains information regarding lexicon of biochemical reactions.
-

@@ -4,6 +4,7 @@ description: ''
 file: /courses/5-07sc-biological-chemistry-i-fall-2013/0d452ea77f6e7bb7aa4ecf9aa498f4c7_sb_session16.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 16: Ketogenesis, Diabetes and Starvation'
 parent_type: CourseSection
