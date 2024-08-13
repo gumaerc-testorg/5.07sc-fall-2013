@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/5-07sc-biological-chemistry-i-fall-2013/370d0ccf710a7fe5dd9b1cd8cb60a7db_MIT5_07SCF13_Pset9_soln.pdf
+file_size: 792715
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

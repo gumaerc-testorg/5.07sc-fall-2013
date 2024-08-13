@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/5-07sc-biological-chemistry-i-fall-2013/dbbd659ab720923100fee6ae3536a942_sb_session18.pdf
+file_size: 131715
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
