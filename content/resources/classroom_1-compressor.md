@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/5-07sc-biological-chemistry-i-fall-2013/d139629b06dbaef33b1abc3328af745b_classroom_1-compressor.jpg
+file_size: 11319
 file_type: image/jpeg
 image_metadata:
   caption: ''

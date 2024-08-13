@@ -2,6 +2,7 @@
 content_type: resource
 description: This course contains information regarding what is biochemistry?
 file: /courses/5-07sc-biological-chemistry-i-fall-2013/9bbcf4b285a5c1320ccf535f62d43f8e_MIT5_07SCF13_Lec1.pdf
+file_size: 963086
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

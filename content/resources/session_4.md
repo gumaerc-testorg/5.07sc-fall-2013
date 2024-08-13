@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/5-07sc-biological-chemistry-i-fall-2013/eff87d4400a01974918cdb3fe3d7fd93_Session_4.jpg
+file_size: 3816
 file_type: image/jpeg
 image_metadata:
   caption: ''
