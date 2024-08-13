@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information regarding introduction to sugar chemistry.
 file: /courses/5-07sc-biological-chemistry-i-fall-2013/4caf13ebcb480a0de75f0821d4c9a322_MIT5_07SCF13_Lec13.pdf
+file_size: 506328
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

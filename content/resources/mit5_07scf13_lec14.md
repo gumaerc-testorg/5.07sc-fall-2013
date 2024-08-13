@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information regarding overview of glycolysis.
 file: /courses/5-07sc-biological-chemistry-i-fall-2013/f8ea6a6844e1ed4318b294490271c118_MIT5_07SCF13_Lec14.pdf
+file_size: 1133090
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
