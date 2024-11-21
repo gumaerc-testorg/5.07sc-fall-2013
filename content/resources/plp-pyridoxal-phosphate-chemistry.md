@@ -1,10 +1,17 @@
 ---
 content_type: resource
 description: ''
+draft: false
 end_time: ''
 file: null
 file_size: '63718791'
-learning_resource_types: []
+file_type: ''
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
+learning_resource_types:
+- Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
@@ -15,7 +22,7 @@ related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
 start_time: ''
-title: PLP (Pyridoxal Phosphate) Chemistry
+title: 'Session 12: PLP (Pyridoxal Phosphate) Chemistry'
 uid: 4135524f-0ca9-aaf9-155e-965fe190d1cb
 video_files:
   archive_url: https://ia601507.us.archive.org/31/items/MIT5.07SCF13/MIT5_07SCF13_Hands-PLP_300k.mp4

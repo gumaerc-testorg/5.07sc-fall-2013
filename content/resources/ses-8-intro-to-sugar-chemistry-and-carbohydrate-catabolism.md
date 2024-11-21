@@ -1,10 +1,17 @@
 ---
 content_type: resource
 description: ''
+draft: false
 end_time: ''
 file: null
 file_size: '21489890'
-learning_resource_types: []
+file_type: ''
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
+learning_resource_types:
+- Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
@@ -15,7 +22,7 @@ related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
 start_time: ''
-title: 'ses 8: Intro to Sugar Chemistry and Carbohydrate Catabolism'
+title: 'Session 8: Intro to Sugar Chemistry and Carbohydrate Catabolism'
 uid: c84cc3dd-d8b9-cbb9-5e5c-3de34000098d
 video_files:
   archive_url: http://archive.org/download/MIT5.07SCF13/MIT5_07SCF13_JE-Ses08_300k.mp4

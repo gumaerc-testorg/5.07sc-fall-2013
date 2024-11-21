@@ -1,10 +1,17 @@
 ---
 content_type: resource
 description: ''
+draft: false
 end_time: ''
 file: null
 file_size: '63718791'
-learning_resource_types: []
+file_type: ''
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
+learning_resource_types:
+- Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
@@ -15,7 +22,7 @@ related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
 start_time: ''
-title: 'PLP (Pyridoxal Phosphate) Reactions '
+title: 'Session 11: PLP (Pyridoxal Phosphate) Reactions'
 uid: df981298-aad8-b8d8-c8fe-f94d8fa48396
 video_files:
   archive_url: https://archive.org/download/MIT5.07SCF13/MIT5_07SCF13_Hands-PLP_300k.mp4

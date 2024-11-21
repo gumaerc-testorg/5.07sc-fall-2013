@@ -1,10 +1,17 @@
 ---
 content_type: resource
 description: ''
+draft: false
 end_time: ''
 file: null
 file_size: '7848542'
-learning_resource_types: []
+file_type: ''
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
+learning_resource_types:
+- Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
@@ -15,7 +22,7 @@ related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
 start_time: ''
-title: The Science Behind Type II Diabetes
+title: 'Session 16: The Science Behind Type II Diabetes'
 uid: 1e153313-7141-6451-c86d-c3782f343982
 video_files:
   archive_url: https://archive.org/download/MIT5.07SCF13/MIT5_07SCF13_JE-Ses16_bonus_1_300k.mp4

@@ -1,10 +1,17 @@
 ---
 content_type: resource
 description: ''
+draft: false
 end_time: ''
 file: null
 file_size: '46597967'
-learning_resource_types: []
+file_type: ''
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
+learning_resource_types:
+- Tutorial Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
@@ -15,7 +22,7 @@ related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
 start_time: ''
-title: 'Problem Set 10, Problem 3: Gluconeogenesis'
+title: 'Session 19: Problem Set 10, Problem 3: Gluconeogenesis'
 uid: a619eae3-ea4e-16d9-17b5-0bf91d52fe93
 video_files:
   archive_url: https://archive.org/download/MIT5.07SCF13/MIT5_07SCF13_Pset10_Q3_300k.mp4
