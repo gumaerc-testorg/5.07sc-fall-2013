@@ -1,10 +1,17 @@
 ---
 content_type: resource
 description: ''
+draft: false
 end_time: ''
 file: null
 file_size: '21259925'
-learning_resource_types: []
+file_type: ''
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
+learning_resource_types:
+- Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
@@ -15,7 +22,7 @@ related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
 start_time: ''
-title: 'Ses 14: Lipid Catabolism: Fatty Acid Beta-Oxidation'
+title: 'Session 14: Lipid Catabolism: Fatty Acid Beta-Oxidation'
 uid: 16a2f0b4-fb0c-fcf3-45c3-b3b1f2d505bc
 video_files:
   archive_url: http://archive.org/download/MIT5.07SCF13/MIT5_07SCF13_JE-Ses14_300k.mp4

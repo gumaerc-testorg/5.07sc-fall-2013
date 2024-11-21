@@ -1,10 +1,17 @@
 ---
 content_type: resource
 description: ''
+draft: false
 end_time: ''
 file: null
 file_size: '19068585'
-learning_resource_types: []
+file_type: ''
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
+learning_resource_types:
+- Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
@@ -15,7 +22,7 @@ related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
 start_time: ''
-title: 'Ses 11: Maintenance of Redox Neutrality'
+title: 'Session 11: Maintenance of Redox Neutrality'
 uid: f4f0153f-8655-9330-ea50-ac305a84fac7
 video_files:
   archive_url: http://archive.org/download/MIT5.07SCF13/MIT5_07SCF13_JE-Ses11_300k.mp4

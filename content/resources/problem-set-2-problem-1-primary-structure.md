@@ -1,10 +1,17 @@
 ---
 content_type: resource
 description: ''
+draft: false
 end_time: ''
 file: null
 file_size: '77373114'
-learning_resource_types: []
+file_type: ''
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
+learning_resource_types:
+- Tutorial Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
@@ -15,7 +22,7 @@ related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
 start_time: ''
-title: 'Problem Set 2, Problem 1: Primary Structure'
+title: 'Session 3: Problem Set 2, Problem 1: Primary Structure'
 uid: a2a0ea00-21d7-a1ab-98a7-e6d9824272bf
 video_files:
   archive_url: https://archive.org/download/MIT5.07SCF13/MIT5_07SCF13_Pset2_Q1_300k.mp4

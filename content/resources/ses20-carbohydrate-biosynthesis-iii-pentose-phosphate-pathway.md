@@ -1,10 +1,17 @@
 ---
 content_type: resource
 description: ''
+draft: false
 end_time: ''
 file: null
 file_size: '127472549'
-learning_resource_types: []
+file_type: ''
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
+learning_resource_types:
+- Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
@@ -15,7 +22,7 @@ related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
 start_time: ''
-title: 'ses20: Carbohydrate Biosynthesis III: Pentose Phosphate Pathway'
+title: 'Session 20: Carbohydrate Biosynthesis III: Pentose Phosphate Pathway'
 uid: 8d17f20b-9849-45d2-34a2-9af8af813072
 video_files:
   archive_url: http://archive.org/download/MIT5.07SCF13/MIT5_07SCF13_JE-Ses20_300k.mp4

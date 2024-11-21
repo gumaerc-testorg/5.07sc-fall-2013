@@ -1,10 +1,17 @@
 ---
 content_type: resource
 description: ''
+draft: false
 end_time: ''
 file: null
 file_size: '30038038'
-learning_resource_types: []
+file_type: ''
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
+learning_resource_types:
+- Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
@@ -15,7 +22,7 @@ related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
 start_time: ''
-title: 'Ses 17: Fatty Acid and Lipid Biosynthesis'
+title: 'Session 17: Fatty Acid and Lipid Biosynthesis'
 uid: 70e3fb67-412e-0ddb-e51b-b397c7cfefea
 video_files:
   archive_url: http://archive.org/download/MIT5.07SCF13/MIT5_07SCF13_JE-Ses17_300k.mp4
