@@ -1,10 +1,17 @@
 ---
 content_type: resource
 description: ''
+draft: false
 end_time: ''
 file: null
 file_size: '46926725'
-learning_resource_types: []
+file_type: ''
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
+learning_resource_types:
+- Tutorial Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
@@ -15,7 +22,7 @@ related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
 start_time: ''
-title: 'Problem Set 1, Problem 1: Sizes and Equilibria'
+title: 'Session 1: Problem Set 1: Sizes and Equilibria'
 uid: 0e89cb94-c54e-fd9e-d429-b9b4f2e65f11
 video_files:
   archive_url: https://archive.org/download/MIT5.07SCF13/MIT5_07SCF13_Pset1_Q1_300k.mp4

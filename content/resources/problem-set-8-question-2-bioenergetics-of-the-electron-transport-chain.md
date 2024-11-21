@@ -1,9 +1,15 @@
 ---
 content_type: resource
 description: ''
+draft: false
 end_time: ''
 file: null
 file_size: '39011457'
+file_type: ''
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
@@ -15,7 +21,8 @@ related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
 start_time: ''
-title: 'Problem Set 8, Question 2: Bioenergetics of the Electron Transport Chain'
+title: 'Session 12: Problem Set 8, Question 2: Bioenergetics of the Electron Transport
+  Chain'
 uid: 3a0ac93e-644f-e16a-3f8b-0840a9f8df9a
 video_files:
   archive_url: https://archive.org/download/MIT5.07SCF13/MIT5_07SCF13_Pset8_Q2_300k.mp4

@@ -1,10 +1,17 @@
 ---
 content_type: resource
 description: ''
+draft: false
 end_time: ''
 file: null
 file_size: '37089628'
-learning_resource_types: []
+file_type: ''
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
+learning_resource_types:
+- Tutorial Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
@@ -15,7 +22,8 @@ related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
 start_time: ''
-title: 'Problem Set 5, Problem 5: How Mannose, an Isomer of Glucose, Enters Glycolysis'
+title: 'Session 7: Problem Set 5, Problem 5: How Mannose, an Isomer of Glucose, Enters
+  Glycolysis'
 uid: 6e107b0c-72be-3459-a163-c619cfa49163
 video_files:
   archive_url: https://archive.org/download/MIT5.07SCF13/MIT5_07SCF13_Pset5_Q5_300k.mp4
