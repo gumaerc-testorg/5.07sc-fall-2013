@@ -2,7 +2,7 @@
 content_type: resource
 description: This course contains information regarding what is biochemistry?
 draft: false
-file: /ol-ocw-studio-app/courses/5-07sc-biological-chemistry-i-fall-2013/9bbcf4b285a5c1320ccf535f62d43f8e_MIT5_07SCF13_Lec1.pdf
+file: /courses/5-07sc-biological-chemistry-i-fall-2013/9bbcf4b285a5c1320ccf535f62d43f8e_MIT5_07SCF13_Lec1.pdf
 file_size: 963086
 file_type: application/pdf
 image_metadata:

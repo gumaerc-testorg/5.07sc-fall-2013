@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information regarding biochemical transformations
   I.
 draft: false
-file: /ol-ocw-studio-app/courses/5-07sc-biological-chemistry-i-fall-2013/373220cee1eac3fc29c455b6cad1c48e_MIT5_07SCF13_Lec9.pdf
+file: /courses/5-07sc-biological-chemistry-i-fall-2013/373220cee1eac3fc29c455b6cad1c48e_MIT5_07SCF13_Lec9.pdf
 file_size: 436447
 file_type: application/pdf
 image_metadata:

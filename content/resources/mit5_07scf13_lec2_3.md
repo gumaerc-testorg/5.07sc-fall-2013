@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information regarding introduction to protein
   structure and function.
 draft: false
-file: /ol-ocw-studio-app/courses/5-07sc-biological-chemistry-i-fall-2013/ab748ac191e468a1134614b9f8e620e8_MIT5_07SCF13_Lec2_3.pdf
+file: /courses/5-07sc-biological-chemistry-i-fall-2013/ab748ac191e468a1134614b9f8e620e8_MIT5_07SCF13_Lec2_3.pdf
 file_size: 1212321
 file_type: application/pdf
 image_metadata:
