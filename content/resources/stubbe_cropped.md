@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/5-07sc-biological-chemistry-i-fall-2013/f86094f41e55727a11e018e9f74ce36f_Stubbe_cropped.jpg
+file: /courses/5-07sc-biological-chemistry-i-fall-2013/f86094f41e55727a11e018e9f74ce36f_Stubbe_cropped.jpg
 file_size: 4923
 file_type: image/jpeg
 image_metadata:
