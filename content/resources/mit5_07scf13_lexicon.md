@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding lexicon of biochemical reactions.
 draft: false
-file: /ol-ocw-studio-app/courses/5-07sc-biological-chemistry-i-fall-2013/0a3dab68db7a5fd5c2ab61860a35e2ca_MIT5_07SCF13_Lexicon.pdf
+file: /courses/5-07sc-biological-chemistry-i-fall-2013/0a3dab68db7a5fd5c2ab61860a35e2ca_MIT5_07SCF13_Lexicon.pdf
 file_size: 1301968
 file_type: application/pdf
 image_metadata:
