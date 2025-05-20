@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/5-07sc-biological-chemistry-i-fall-2013/94f8b3532d66b92c168ef3bd79e8106e_wyT7EFJlBak.pdf
+file: /courses/5-07sc-biological-chemistry-i-fall-2013/94f8b3532d66b92c168ef3bd79e8106e_wyT7EFJlBak.pdf
 file_size: 27858
 file_type: application/pdf
 learning_resource_types: []

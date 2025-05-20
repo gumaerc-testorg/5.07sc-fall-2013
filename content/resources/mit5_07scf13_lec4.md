@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information regarding protein structure and function
   continued.
 draft: false
-file: /ol-ocw-studio-app/courses/5-07sc-biological-chemistry-i-fall-2013/8708bcd1263ee1281ed4c61cbb79afff_MIT5_07SCF13_Lec4.pdf
+file: /courses/5-07sc-biological-chemistry-i-fall-2013/8708bcd1263ee1281ed4c61cbb79afff_MIT5_07SCF13_Lec4.pdf
 file_size: 632382
 file_type: application/pdf
 image_metadata:
