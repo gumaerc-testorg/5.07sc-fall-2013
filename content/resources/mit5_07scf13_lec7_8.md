@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information regarding enzymes kinetics and enzyme
   inhibition.
 draft: false
-file: /courses/5-07sc-biological-chemistry-i-fall-2013/b4fd2e5ca7f7bfcffd8f98ca6afff53d_MIT5_07SCF13_Lec7_8.pdf
+file: /ol-ocw-studio-app/courses/5-07sc-biological-chemistry-i-fall-2013/b4fd2e5ca7f7bfcffd8f98ca6afff53d_MIT5_07SCF13_Lec7_8.pdf
 file_size: 808806
 file_type: application/pdf
 image_metadata:
