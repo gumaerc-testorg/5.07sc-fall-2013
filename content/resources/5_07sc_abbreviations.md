@@ -2,7 +2,7 @@
 content_type: resource
 description: ''
 draft: false
-file: /courses/5-07sc-biological-chemistry-i-fall-2013/ac3df72d6bc64345aba3d448953ca189_5_07SC_Abbreviations.pdf
+file: /ol-ocw-studio-app/courses/5-07sc-biological-chemistry-i-fall-2013/ac3df72d6bc64345aba3d448953ca189_5_07SC_Abbreviations.pdf
 file_size: 84564
 file_type: application/pdf
 image_metadata:

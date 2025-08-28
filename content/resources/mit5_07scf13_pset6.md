@@ -2,7 +2,7 @@
 content_type: resource
 description: ''
 draft: false
-file: /courses/5-07sc-biological-chemistry-i-fall-2013/b106ca1f4f7a92aad1ae5fdabf00f314_MIT5_07SCF13_Pset6.pdf
+file: /ol-ocw-studio-app/courses/5-07sc-biological-chemistry-i-fall-2013/b106ca1f4f7a92aad1ae5fdabf00f314_MIT5_07SCF13_Pset6.pdf
 file_size: 195745
 file_type: application/pdf
 image_metadata:

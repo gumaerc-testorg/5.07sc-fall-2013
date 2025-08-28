@@ -2,7 +2,7 @@
 content_type: resource
 description: ''
 draft: false
-file: /courses/5-07sc-biological-chemistry-i-fall-2013/4d9479b5ff0fee684605b728189a941e_JE_Metabolic_Chart_Session8.pdf
+file: /ol-ocw-studio-app/courses/5-07sc-biological-chemistry-i-fall-2013/4d9479b5ff0fee684605b728189a941e_JE_Metabolic_Chart_Session8.pdf
 file_size: 200652
 file_type: application/pdf
 image_metadata:

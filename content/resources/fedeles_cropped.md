@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/5-07sc-biological-chemistry-i-fall-2013/9c30b0874f8bf66044797771042b3e9c_Fedeles_cropped.jpg
+file: /ol-ocw-studio-app/courses/5-07sc-biological-chemistry-i-fall-2013/9c30b0874f8bf66044797771042b3e9c_Fedeles_cropped.jpg
 file_size: 4072
 file_type: image/jpeg
 image_metadata:
