@@ -25,7 +25,7 @@ JoAnne Stubbe
 {{< tdopen >}}
 
 
-Joanne Stubbe is Professor of Chemistry & Biology Emeritus at MIT and the Director of the [Stubbe Research Group](http://web.mit.edu/biochemistry/) at MIT. Her research has focused on nucleotide reductases, the enzymes involved in the chemical reactions essential to the biosynthesis of DNA and RNA. Her success in unraveling the specific steps in these and other enzymatic reactions has enabled the design and synthesis of important anti-cancer drugs. A recipient of the 2008 [National Medal of Science](http://www.nsf.gov/od/nms/recip_details.jsp?recip_id=5300000000457) and a member of the National Academy of Sciences, she has taught Biochemistry at MIT for many years. She is often spotted outside the lab walking her dog Zymie.
+Joanne Stubbe is Professor of Chemistry & Biology Emeritus at MIT and the Director of the {{% resource_link "59d4e4c0-0099-42b9-9be3-62eb47ac601c" "Stubbe Research Group" %}} at MIT. Her research has focused on nucleotide reductases, the enzymes involved in the chemical reactions essential to the biosynthesis of DNA and RNA. Her success in unraveling the specific steps in these and other enzymatic reactions has enabled the design and synthesis of important anti-cancer drugs. A recipient of the 2008 {{% resource_link "6f716631-d25e-4e24-a9dc-fa1cc395cf8c" "National Medal of Science" %}} and a member of the National Academy of Sciences, she has taught Biochemistry at MIT for many years. She is often spotted outside the lab walking her dog Zymie.
 
 
 {{< tdclose >}}
@@ -45,7 +45,7 @@ John Essigmann
 {{< tdopen >}}
 
 
-John Essigmann is Professor of Chemistry & Biological Engineering at MIT and the Director of the [MIT Center for Environmental Health Sciences](http://cehs.mit.edu/). He leads the [Essigmann Lab](http://essigmann.mit.edu/) at MIT, which investigates how chemicals in the environment can damage DNA in cells, where in the DNA that damage occurs, how cells respond to the damage, and how they can sometimes repair the damage. The Lab also designs anticancer and antiviral drugs. For many years he has taught biochemistry and other subjects at MIT and has served as a house master in an MIT dorm, where he has gotten to know hundreds of MIT undergraduates.
+John Essigmann is Professor of Chemistry & Biological Engineering at MIT and the Director of the {{% resource_link "757109a1-4692-4437-ace2-b36dee35521b" "MIT Center for Environmental Health Sciences" %}}. He leads the {{% resource_link "ea2c94d5-d2f4-4c29-be84-5ad72b7453fc" "Essigmann Lab" %}} at MIT, which investigates how chemicals in the environment can damage DNA in cells, where in the DNA that damage occurs, how cells respond to the damage, and how they can sometimes repair the damage. The Lab also designs anticancer and antiviral drugs. For many years he has taught biochemistry and other subjects at MIT and has served as a house master in an MIT dorm, where he has gotten to know hundreds of MIT undergraduates.
 
 
 {{< tdclose >}}
@@ -65,7 +65,7 @@ Bogdan Fedeles
 {{< tdopen >}}
 
 
-Bogdan Fedeles is Research Scientist in the MIT Center for Environmental Health Sciences and a member of the [Essigmann Lab](http://essigmann.mit.edu/) at MIT. He has taught _5.07 Biological Chemistry I_ twice with Professor Stubbe and Professor Dr. Essigmann. In his research he has shown how [chronic inflammation in the body can lead to cancer](http://news.mit.edu/2015/how-chronic-inflammation-can-lead-to-cancer-0807), how [detecting mutations could lead to earlier liver cancer diagnosis](http://news.mit.edu/2017/detecting-mutations-earlier-liver-cancer-diagnosis-0327), and how the [HIV virus can be induced to deactivate itself after invading a cell](http://news.mit.edu/2014/forced-mutations-doom-hiv-0728). In addition to being a teacher and researcher, he is a classically trained pianist.
+Bogdan Fedeles is Research Scientist in the MIT Center for Environmental Health Sciences and a member of the {{% resource_link "ea2c94d5-d2f4-4c29-be84-5ad72b7453fc" "Essigmann Lab" %}} at MIT. He has taught _5.07 Biological Chemistry I_ twice with Professor Stubbe and Professor Dr. Essigmann. In his research he has shown how {{% resource_link "77199e5c-0749-4051-b6f8-49e450732811" "chronic inflammation in the body can lead to cancer" %}}, how {{% resource_link "133bf36d-181b-411b-9971-c91b197f9a1b" "detecting mutations could lead to earlier liver cancer diagnosis" %}}, and how the {{% resource_link "9dc33f5a-56b0-4109-bdf7-17a9361ff48e" "HIV virus can be induced to deactivate itself after invading a cell" %}}. In addition to being a teacher and researcher, he is a classically trained pianist.
 
 
 {{< tdclose >}}

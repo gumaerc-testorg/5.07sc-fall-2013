@@ -71,7 +71,7 @@ John Essigmann
 
 - GIR
 - REST
-- _5.07 Biological Chemistry I_ can be applied toward a [Bachelor of Science in Chemistry](https://chemistry.mit.edu/academic-programs/undergraduate-programs/chemistry-major-chem-flex/), as well toward a [Bachelor of Science in Chemistry and Biology](https://chemistry.mit.edu/academic-programs/undergraduate-programs/chemistry-biology-major/).
+- _5.07 Biological Chemistry I_ can be applied toward a {{% resource_link "333e391b-2506-42d3-a110-f1004eda6ce4" "Bachelor of Science in Chemistry" %}}, as well toward a {{% resource_link "11e91e08-66ee-4356-a38f-912a797e500f" "Bachelor of Science in Chemistry and Biology" %}}.
 
 ### Offered
 
