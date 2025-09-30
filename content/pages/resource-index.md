@@ -86,7 +86,7 @@ RELATED FILES
 
 {{% resource_link 0a3dab68-db7a-5fd5-c2ab-61860a35e2ca "Lexicon of Biochemical Reactions (PDF - 1.2MB)" %}}
 
-[Metabolic Pathways Chart](http://www.iubmb-nicholson.org/chart.html)
+{{% resource_link "09568224-a9e9-4b09-a14f-76b8a6386008" "Metabolic Pathways Chart" %}}
 
 
 {{< tdclose >}}
